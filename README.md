@@ -43,4 +43,7 @@
   <a href="https://github.com/yehwankim23?tab=repositories&language=vbscript">
     <img src="https://img.shields.io/static/v1?label=2021&message=VBScript&color=15DCDC" alt="VBScript"/>
   </a>
+  <a href="https://github.com/yehwankim23?tab=repositories&language=autohotkey">
+    <img src="https://img.shields.io/static/v1?label=2022&message=AutoHotkey&color=6594B9" alt="AutoHotkey"/>
+  </a>
 </div>
