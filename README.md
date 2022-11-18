@@ -25,9 +25,6 @@
   <a href="https://github.com/yehwankim23?tab=repositories&language=processing">
     <img src="https://img.shields.io/static/v1?label=2018&message=Processing&color=0096D8" alt="Processing"/>
   </a>
-  <a href="https://github.com/yehwankim23?tab=repositories&language=dart">
-    <img src="https://img.shields.io/static/v1?label=2020&message=Dart&color=00B4AB" alt="Dart"/>
-  </a>
   <a href="https://github.com/yehwankim23?tab=repositories&language=c%2B%2B">
     <img src="https://img.shields.io/static/v1?label=2020&message=C%2B%2B&color=F34B7D" alt="C++"/>
   </a>
@@ -42,9 +39,6 @@
   </a>
   <a href="https://github.com/yehwankim23?tab=repositories&language=powershell">
     <img src="https://img.shields.io/static/v1?label=2021&message=PowerShell&color=012456" alt="PowerShell"/>
-  </a>
-  <a href="https://github.com/yehwankim23?tab=repositories&language=c%23">  
-    <img src="https://img.shields.io/static/v1?label=2021&message=C%23&color=178600" alt="C#"/>
   </a>
   <a href="https://github.com/yehwankim23?tab=repositories&language=autohotkey">
     <img src="https://img.shields.io/static/v1?label=2022&message=AutoHotkey&color=6594B9" alt="AutoHotkey"/>
